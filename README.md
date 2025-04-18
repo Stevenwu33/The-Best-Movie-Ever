@@ -1,5 +1,5 @@
 
-# 🎬 Best Movie Ever – Data-Driven Film Strategy
+# 🎬 The Best Movie Ever – Data-Driven Film Strategy
 
 This project was created as part of a data visualization challenge where we were tasked with designing the **“Best Movie Ever”** using a dataset of box office films from the past 10 years. Our client is a **new film production company** aiming to disrupt the industry without an existing track record. 
 
